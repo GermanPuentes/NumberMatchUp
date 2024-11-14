@@ -1,0 +1,24 @@
+Instrucciones para crear el proyecto de en Eclipse:
+
+1. **Instalar Eclipse**:
+   Version "Eclipse IDE for Java Developers"
+
+2. **Abrir Eclipse**:
+
+3. **Crear un nuevo proyecto**:
+   - clic en **File** (Archivo) en la barra de menú.
+   - Seleccionar **New** (Nuevo) y luego **Java Project** (Proyecto de Java).
+   - Asignar el nombre del proyecto `JuegoMemoria`
+   - Seleccionar la ubicación donde quiere guardar el proyecto yclic en **Finish** (Finalizar).
+
+4. **Crear paquetes y clases**:
+   - clic derecho en el proyecto recién creado y seleccionar **New** (Nuevo) > **Package** (Paquete).
+   - colocar un nombre al paquete, por ejemplo, `com.juegodememoria`, y clic en **Finish** (Finalizar).
+   - clic derecho en el paquete y seleccionar **New** (Nuevo) > **Class** (Clase).
+   - Asignar un nombre a la clase,  `ControladorMemoria`.
+   - clic en **Finish** (Finalizar).
+
+5. **Agregar los código**:
+   - Abrir las clases: ControladorMemoria, Tablero, Celda repitiendo el paso 4 con cada una.
+6. **Ejecutar el proyecto.
+   - clic derecho en la clase "Main_versionconsola" y seleccionar **Run As** (Ejecutar como) > **Java Application** (Aplicación Java)
