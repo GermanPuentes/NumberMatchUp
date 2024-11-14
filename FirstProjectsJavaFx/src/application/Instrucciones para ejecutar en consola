@@ -1,0 +1,26 @@
+### Pasos para ejecutar el código en la consola:
+
+1. **Guardar los archivos**:
+   - Guardar cada clase en su propio archivo con el nombre correspondiente.
+     - ControladorMemoria.java
+     - Tablero.java
+     - Celda.java
+     - Main_versionconsola.java
+
+2. **Abrir la consola**:
+   - Abrir la terminal o símbolo del sistema.
+
+3. **Navegar al directorio**:
+   - cd ruta/al/directorio
+    
+
+4. **Compilar los archivos**:
+   - Usar el compilador `javac` para compilar todos los archivos. compilar todos los archivos a la vez con el siguiente comando:
+     ```sh
+     javac Main_versionconsola.java ControladorMemoria.java Tablero.java Celda.java
+     ```
+
+5. **Ejecutar el programa**:
+   - Usar el comando `java` para ejecutar la clase `Main`. Este es el punto de entrada del programa:
+     ```sh
+     java Main_versionconsola
